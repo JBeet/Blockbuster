@@ -1,0 +1,39 @@
+{
+	"description": {
+		"title": "Test table",
+		"body": "Description of the test table"
+	},
+	"table": {
+		"columnNames": [
+			"once",
+			"twice",
+			"10x"
+		],
+		"rows": [
+			{
+				"dateAdded": "2023-04-01",
+				"cells": [
+					1,
+					2,
+					10
+				]
+			},
+			{
+				"dateAdded": "2023-04-01",
+				"cells": [
+					2,
+					4,
+					20
+				]
+			},
+			{
+				"dateAdded": "2023-04-04",
+				"cells": [
+					5,
+					10,
+					50
+				]
+			}
+		]
+	}
+}
