@@ -10,7 +10,7 @@ plugins {
 
 val publishedGroupId = "com.beetstra.blockbuster"
 val publishedArtifactId = "blockbuster"
-val publishedVersion = "0.1.0-SNAPSHOT"
+val publishedVersion = "0.1.0"
 group = publishedGroupId
 version = publishedVersion
 
